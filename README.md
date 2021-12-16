@@ -1,6 +1,7 @@
 # resume
 각자 작성한 이력서를 리뷰받기 위한 저장소입니다.
 
+리뷰 받는 방법
 1. 본인만의 branch를 생성한다. `[git id]_[subject]` (예, hong-p_open-resume)
 2. 본인의 repository로 fork한다.
 3. 본인이 앞서 생성한 branch나 새로운 branch를 생성해 my_profile.md 파일에 이력서를 작성한다.
